@@ -38,7 +38,7 @@ app.get('/', (req, res) => {
     <body>
         <div class="main">
             <div>
-                <h1>Chaitanya</h1>
+                <h1>Adithya</h1>
             </div>
         </div>
     </body>
